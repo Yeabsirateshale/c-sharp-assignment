@@ -1,0 +1,10 @@
+C:\Users\yeabi\source\repos\project 4 cs223\project 4 cs223\obj\Debug\project 4 cs223.csproj.AssemblyReference.cache
+C:\Users\yeabi\source\repos\project 4 cs223\project 4 cs223\obj\Debug\project_4_cs223.Form1.resources
+C:\Users\yeabi\source\repos\project 4 cs223\project 4 cs223\obj\Debug\project_4_cs223.Properties.Resources.resources
+C:\Users\yeabi\source\repos\project 4 cs223\project 4 cs223\obj\Debug\project 4 cs223.csproj.GenerateResource.cache
+C:\Users\yeabi\source\repos\project 4 cs223\project 4 cs223\obj\Debug\project 4 cs223.csproj.CoreCompileInputs.cache
+C:\Users\yeabi\source\repos\project 4 cs223\project 4 cs223\bin\Debug\project 4 cs223.exe.config
+C:\Users\yeabi\source\repos\project 4 cs223\project 4 cs223\bin\Debug\project 4 cs223.exe
+C:\Users\yeabi\source\repos\project 4 cs223\project 4 cs223\bin\Debug\project 4 cs223.pdb
+C:\Users\yeabi\source\repos\project 4 cs223\project 4 cs223\obj\Debug\project 4 cs223.exe
+C:\Users\yeabi\source\repos\project 4 cs223\project 4 cs223\obj\Debug\project 4 cs223.pdb
